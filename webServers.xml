@@ -1,0 +1,30 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="d4638eac-3869-4be3-9f2f-fbde8bc94512" name="MVC" url="http://www.mvcapp.com">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="1b933994-ea4e-4415-8c69-c469bec2014c" name="lcalhost" url="http://localhost/Projet_fin_formation_Media">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="28526aa5-cc2e-4400-9182-ca9af031ba40" name="Stream" url="http://localhost/stream">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="c8acafa7-f142-4624-b344-728a1948cc66" name="webcam" url="http://localhost/webcam-in-php-html5">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="b02bc985-6ae9-4085-95e9-d1d20b72e6a9" name="press" url="http://localhost">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="bdbb2ec1-ac7e-4aed-b7a1-5ca9693e61d4" name="facture" url="http://localhost">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="f971df8a-589a-41a9-84b9-584df66e9085" name="fff" url="http://localhost">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="f12a1b08-570d-4cf1-b13b-0b1d1654cfd4" name="yassine" url="http://localhost">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+    </option>
+  </component>
+</application>

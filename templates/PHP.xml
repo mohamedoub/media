@@ -1,0 +1,3 @@
+<templateSet group="PHP">
+  <template name="ifc" value="&lt;?php if(): foreach ( as ): ?&gt;&#10;&#10;&lt;?php endforeach; endif; ?&gt;" description="if(condition)" toReformat="false" toShortenFQNames="true" />
+</templateSet>

@@ -1,0 +1,29 @@
+<scheme name="_@user_Default" version="142" parent_scheme="Default">
+  <metaInfo>
+    <property name="created">2019-04-06T00:36:33</property>
+    <property name="ide">PhpStorm</property>
+    <property name="ideVersion">2018.3.5.0.0</property>
+    <property name="modified">2019-04-06T01:32:11</property>
+    <property name="originalScheme">Default</property>
+  </metaInfo>
+  <attributes>
+    <option name="CONSOLE_BLUE_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="ee" />
+        <option name="ERROR_STRIPE_COLOR" value="ffdcb7" />
+      </value>
+    </option>
+    <option name="CONSOLE_CYAN_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="cccc" />
+        <option name="ERROR_STRIPE_COLOR" value="ffffff" />
+      </value>
+    </option>
+    <option name="CONSOLE_ERROR_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="7f0000" />
+        <option name="ERROR_STRIPE_COLOR" value="ffffff" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
