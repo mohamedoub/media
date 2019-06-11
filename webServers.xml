@@ -25,6 +25,9 @@
       <webServer id="f12a1b08-570d-4cf1-b13b-0b1d1654cfd4" name="yassine" url="http://localhost">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="41cd7ff5-220b-4df3-ba80-70fad91540ba" name="crud" url="http://localhost">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
